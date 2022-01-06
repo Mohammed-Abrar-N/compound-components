@@ -90,7 +90,7 @@ function networkFromId(id) {
     case 99:
       return 'core';
 
-      case 106:
+      case 111:
         return 'velas';
 
     case 999:
